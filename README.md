@@ -40,8 +40,6 @@ Uma aplicação web desenvolvida que exibe uma lista das músicas mais tocadas d
 - Interface moderna com Material UI
 - Testes automatizados com **Vitest** (frontend) e **PHPUnit** (backend)
 
-...
-
 ## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
